@@ -1,5 +1,8 @@
 # Mobile Phone Price Prediction 🔥
 
-<p align="center">
+</p>
+<h1 align="center"> Mobile Price Range Prediction </h1>
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
-[Uploading DALL·E 2025-02-23 19.37.12 - A futuristic online platform predicting mobile phone prices. A sleek digital storefront displays smartphones with dynamic price forecasts, AI-driven a.webp…]()
+
+![Screenshot (28)](https://user-images.githubusercontent.com/102009481/177788412-1f515f71-0654-4a26-9c05-f3598f4f034d.png)
